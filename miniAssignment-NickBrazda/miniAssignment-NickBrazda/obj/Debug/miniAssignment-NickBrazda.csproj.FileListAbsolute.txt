@@ -1,0 +1,10 @@
+C:\Users\Nick\Desktop\miniAssignment-NickBrazda\miniAssignment-NickBrazda\bin\Debug\miniAssignment-NickBrazda.exe.config
+C:\Users\Nick\Desktop\miniAssignment-NickBrazda\miniAssignment-NickBrazda\bin\Debug\miniAssignment-NickBrazda.exe
+C:\Users\Nick\Desktop\miniAssignment-NickBrazda\miniAssignment-NickBrazda\bin\Debug\miniAssignment-NickBrazda.pdb
+C:\Users\Nick\Desktop\miniAssignment-NickBrazda\miniAssignment-NickBrazda\obj\Debug\miniAssignment-NickBrazda.csprojAssemblyReference.cache
+C:\Users\Nick\Desktop\miniAssignment-NickBrazda\miniAssignment-NickBrazda\obj\Debug\miniAssignment_NickBrazda.Form1.resources
+C:\Users\Nick\Desktop\miniAssignment-NickBrazda\miniAssignment-NickBrazda\obj\Debug\miniAssignment_NickBrazda.Properties.Resources.resources
+C:\Users\Nick\Desktop\miniAssignment-NickBrazda\miniAssignment-NickBrazda\obj\Debug\miniAssignment-NickBrazda.csproj.GenerateResource.cache
+C:\Users\Nick\Desktop\miniAssignment-NickBrazda\miniAssignment-NickBrazda\obj\Debug\miniAssignment-NickBrazda.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\miniAssignment-NickBrazda\miniAssignment-NickBrazda\obj\Debug\miniAssignment-NickBrazda.exe
+C:\Users\Nick\Desktop\miniAssignment-NickBrazda\miniAssignment-NickBrazda\obj\Debug\miniAssignment-NickBrazda.pdb
